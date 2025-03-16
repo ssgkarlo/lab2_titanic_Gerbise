@@ -1,0 +1,2 @@
+# lab2_titanic_Gerbise
+lab2_titatnic_Gerbise
